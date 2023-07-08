@@ -123,3 +123,22 @@ main{
     font-size: 30px;
     font-weight:700;
  }
+ .resumn-container{
+    display: flex;
+    gap: 50px;
+ }
+ .resume-item-description, .resume-item-institute{
+    color:#757575
+ }
+ .resume-item-title{
+    font-size: 20px;
+    font-weight: 700;
+    /* color: #757575; */
+ }
+ .resumn-container hr{
+    margin: 30px;
+ }
+ .downloed-cv{
+    text-align: center;
+    margin-top: 50px;
+ }
