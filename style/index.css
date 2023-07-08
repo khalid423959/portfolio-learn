@@ -70,6 +70,10 @@ nav a{
     margin-top: 5px;
 }
 /* main section style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* about section syle */
 .about{
     padding: 130px;
@@ -87,4 +91,8 @@ nav a{
     font-size: 18px;
     text-align: center;
     color: rgb(44, 41, 41);
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
 }
